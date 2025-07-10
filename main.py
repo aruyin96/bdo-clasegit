@@ -29,8 +29,11 @@ print(f"Largo:{largo}\nAncho: {ancho}\nArea: {area}\nPerimetro: {perimetro}")"""
 #Ejercicio 3
 
 anionacimiento= int(input("Ingrese su año de nacimiento: "))
-anioactual= int(input("Ingrese el año actual"))
+anioactual= int(input("Ingrese el año actual: "))
 
 edadactual= anioactual - anionacimiento
 edad2050= 2050 - anionacimiento
 print(f"Tu edad actual es {edadactual} y tu edad en 2050 será {edad2050}")
+
+#Ejercicio 4
+
